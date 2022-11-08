@@ -1,4 +1,4 @@
-# Telegram Movie Bot
+# official shankya Movie Bot
 
 ## Features
 
